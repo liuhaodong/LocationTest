@@ -1,2 +1,3 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.google.haodongl.locationtest.app" />
+    package="com.google.haodongl.locationtest.app">
+</manifest>
